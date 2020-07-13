@@ -1,0 +1,4 @@
+V3.1
+Added auto updates
+Added suport for new heists
+Fixed mask per heists not working
