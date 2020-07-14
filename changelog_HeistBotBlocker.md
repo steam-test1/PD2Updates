@@ -1,8 +1,0 @@
-V3.2
-Disabled Ethan and Hila for all heists
-Updated Border heists and San Martin Bank bots allowed
-
-V3.1
-Added auto updates
-Added suport for new heists
-Fixed mask per heists not working
